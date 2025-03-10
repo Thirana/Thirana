@@ -1,8 +1,4 @@
-# Hi! 👋 I’m Thirana Embuldeniya
-
-Welcome to my GitHub! I love making cool stuff with code. I build web apps and play with AI. Here’s a bit about me:
-
-## About Me
+### Hi there! 👋
 
 - 💻 I'm a developer who enjoys building websites with Next.js.
 
