@@ -4,6 +4,7 @@ Associate Software Engineer building backend systems, cloud infrastructure, and 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-thirana.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thirana-embuldeniya)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thirana)
 
 ## About
 
@@ -13,27 +14,33 @@ I'm especially interested in cloud and DevOps technologies, backend engineering,
 
 ## Current Focus
 
-AWS, Kubernetes, Terraform, Helm, and GitOps driven platform delivery  
-Backend APIs, authentication, authorization, and multi tenant system design  
-Serverless ETL and cloud data workflows  
-Next.js based applications and developer facing tools
+- AWS, Kubernetes, Terraform, Helm, and GitOps driven platform delivery
+- Backend APIs, authentication, authorization, and multi tenant system design
+- Serverless ETL and cloud data workflows
+- Next.js based applications and developer facing tools
 
 ## Recent Work
 
-Contributed to a multi tenant AWS EKS migration with onboarding automation, secrets management, and autoscaling  
-Built a QuickBooks to BigQuery ETL pipeline on GCP to replace a more expensive managed integration  
-Worked on multi tenant SSO and backend API development using Node.js, NestJS, TypeScript, and MongoDB
+- Contributed to a multi tenant AWS EKS migration with onboarding automation, secrets management, and autoscaling
+- Built a QuickBooks to BigQuery ETL pipeline on GCP to replace a more expensive managed integration
+- Worked on multi tenant SSO and backend API development using Node.js, NestJS, TypeScript, and MongoDB
 
-## Core Tech
+## Core Stack
+
+### Cloud and DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+### Backend Engineering
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
