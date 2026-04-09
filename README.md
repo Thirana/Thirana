@@ -14,16 +14,16 @@ I'm especially interested in cloud and DevOps technologies, backend engineering,
 
 ## Current Focus
 
-- AWS, Kubernetes, Terraform, Helm, and GitOps-driven platform delivery
-- Backend APIs, authentication, authorization, and multi-tenant system design
-- Serverless ETL and cloud data workflows
-- Next.js-based applications and developer-facing tools
+AWS, Kubernetes, Terraform, Helm, and GitOps driven platform delivery  
+Backend APIs, authentication, authorization, and multi tenant system design  
+Serverless ETL and cloud data workflows  
+Next.js based applications and developer facing tools
 
 ## Recent Work
 
-- Contributed to a multi-tenant AWS EKS migration with onboarding automation, secrets management, and autoscaling
-- Built a QuickBooks to BigQuery ETL pipeline on GCP to replace a more expensive managed integration
-- Worked on multi-tenant SSO and backend API development using Node.js, NestJS, TypeScript, and MongoDB
+Contributed to a multi tenant AWS EKS migration with onboarding automation, secrets management, and autoscaling  
+Built a QuickBooks to BigQuery ETL pipeline on GCP to replace a more expensive managed integration  
+Worked on multi tenant SSO and backend API development using Node.js, NestJS, TypeScript, and MongoDB
 
 ## Core Tech
 
@@ -40,5 +40,7 @@ I'm especially interested in cloud and DevOps technologies, backend engineering,
 
 ## Selected Repositories
 
-- [3-tier architecture with AWS](https://github.com/Thirana/3-tier-architecture-with-aws)
-- [Trimly](https://github.com/Thirana/Trimly)
+[3 tier architecture with AWS](https://github.com/Thirana/3-tier-architecture-with-aws)  
+[Trimly](https://github.com/Thirana/Trimly)  
+[marketplace service](https://github.com/Thirana/marketplace-service)  
+[workspace manager api](https://github.com/Thirana/workspace-manager-api)
