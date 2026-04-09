@@ -7,7 +7,7 @@ Associate Software Engineer building backend systems, cloud infrastructure, and 
 
 ## About
 
-I build practical systems that are easier to operate, scale, and extend. My work has centered on backend APIs, authentication, cloud infrastructure, and automation, with hands on experience across AWS, Kubernetes, Terraform, GitOps, and modern TypeScript based backend development.
+My current experience is centered around production grade backend engineering, cloud infrastructure, and DevOps workflows, with hands on experience across AWS, Kubernetes, Terraform, GitOps, and modern TypeScript based backend development.
 
 I'm especially interested in cloud and DevOps technologies, backend engineering, modern developer tools, and engineering concepts that improve reliability, scalability, and delivery in production.
 
@@ -45,7 +45,9 @@ I'm especially interested in cloud and DevOps technologies, backend engineering,
 
 ## Selected Repositories
 
-[3 tier architecture with AWS](https://github.com/Thirana/3-tier-architecture-with-aws)  
-[Trimly](https://github.com/Thirana/Trimly)  
-[marketplace service](https://github.com/Thirana/marketplace-service)  
-[workspace manager api](https://github.com/Thirana/workspace-manager-api)
+| Repository | Focus |
+| --- | --- |
+| [Marketplace Service](https://github.com/Thirana/marketplace-service) | NestJS service with PostgreSQL, transactional order flows, idempotency, and production style backend practices. |
+| [Workspace Manager API](https://github.com/Thirana/workspace-manager-api) | TypeScript workspace management API focused on JWT auth, role aware access, validation, and real world backend standards. |
+| [3 Tier Architecture with AWS](https://github.com/Thirana/3-tier-architecture-with-aws) | AWS reference architecture spanning React, Node.js, Nginx, EC2, load balancers, Auto Scaling, and Aurora MySQL. |
+| [Trimly](https://github.com/Thirana/Trimly) | Go based application project with a structured codebase and ongoing product development. |
